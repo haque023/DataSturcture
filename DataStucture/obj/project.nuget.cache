@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z0Qgr1YbN2b96fbfFE2ZwBLg9a7BHCysRBq+bLfFjfEnagxOGX2OaPCESYiDqciI+YgydBKvYjPxEwNErysUOQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\RMG\\DataStucture\\DataStucture\\DataStucture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

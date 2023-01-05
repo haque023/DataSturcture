@@ -1,0 +1,14 @@
+D:\Projects\RMG\DataStucture\DataStucture\bin\Debug\netcoreapp3.1\DataStucture.exe
+D:\Projects\RMG\DataStucture\DataStucture\bin\Debug\netcoreapp3.1\DataStucture.deps.json
+D:\Projects\RMG\DataStucture\DataStucture\bin\Debug\netcoreapp3.1\DataStucture.runtimeconfig.json
+D:\Projects\RMG\DataStucture\DataStucture\bin\Debug\netcoreapp3.1\DataStucture.runtimeconfig.dev.json
+D:\Projects\RMG\DataStucture\DataStucture\bin\Debug\netcoreapp3.1\DataStucture.dll
+D:\Projects\RMG\DataStucture\DataStucture\bin\Debug\netcoreapp3.1\DataStucture.pdb
+D:\Projects\RMG\DataStucture\DataStucture\obj\Debug\netcoreapp3.1\DataStucture.csproj.AssemblyReference.cache
+D:\Projects\RMG\DataStucture\DataStucture\obj\Debug\netcoreapp3.1\DataStucture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RMG\DataStucture\DataStucture\obj\Debug\netcoreapp3.1\DataStucture.AssemblyInfoInputs.cache
+D:\Projects\RMG\DataStucture\DataStucture\obj\Debug\netcoreapp3.1\DataStucture.AssemblyInfo.cs
+D:\Projects\RMG\DataStucture\DataStucture\obj\Debug\netcoreapp3.1\DataStucture.csproj.CoreCompileInputs.cache
+D:\Projects\RMG\DataStucture\DataStucture\obj\Debug\netcoreapp3.1\DataStucture.dll
+D:\Projects\RMG\DataStucture\DataStucture\obj\Debug\netcoreapp3.1\DataStucture.pdb
+D:\Projects\RMG\DataStucture\DataStucture\obj\Debug\netcoreapp3.1\DataStucture.genruntimeconfig.cache
